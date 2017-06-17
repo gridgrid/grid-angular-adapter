@@ -1,7 +1,7 @@
 {
   "name": "grid-angular-adapter",
   "version": "0.0.0-semantic-release",
-  "description": "A highly scalable grid component written in javscript",
+  "description": "Angular tools for the Grid",
   "main": "src/modules/grid-entry.js",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -68,7 +68,7 @@
   "browserify-shim": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/relateiq/grid.git"
+    "url": "https://github.com/gridgrid/grid-angular-adapter.git"
   },
   "keywords": [
     "grid",
@@ -79,9 +79,9 @@
   "author": "Sterling Camden",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/relateiq/grid/issues"
+    "url": "https://github.com/gridgrid/grid-angular-adapter/issues"
   },
-  "homepage": "https://github.com/relateiq/grid",
+  "homepage": "https://github.com/gridgrid/grid-angular-adapter",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
