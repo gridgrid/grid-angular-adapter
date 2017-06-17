@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/grid.svg)]( https://www.npmjs.com/package/grid-angular-adapter) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![npm](https://img.shields.io/npm/v/grid-angular-adapter.svg)]( https://www.npmjs.com/package/grid-angular-adapter) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 Grid Angular Adapter
 ===

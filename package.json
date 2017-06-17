@@ -1,6 +1,6 @@
 {
   "name": "grid-angular-adapter",
-  "version": "0.0.0",
+  "version": "0.0.0-semantic-release",
   "description": "A highly scalable grid component written in javscript",
   "main": "src/modules/grid-entry.js",
   "publishConfig": {
@@ -49,7 +49,7 @@
     "node-sass": "~3.4.1",
     "phantomjs": "~2.1.7",
     "polyfill-function-prototype-bind": "0.0.1",
-    "semantic-release": "^4.3.5",
+    "semantic-release": "^6.3.6",
     "tiny-lr": "~0.2.1",
     "validate-commit-msg": "~2.12.1",
     "watchify": "~3.6.0",
