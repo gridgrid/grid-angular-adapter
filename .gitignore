@@ -1,0 +1,12 @@
+.idea
+.sass-cache
+**/node_modules/**
+!**/node_modules/@grid
+bower_components/
+build
+node_modules
+tmp
+test-assets
+/coverage
+release
+release/bundle*.css
