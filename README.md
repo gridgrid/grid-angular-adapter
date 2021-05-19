@@ -3,7 +3,7 @@
 Grid Angular Adapter
 ===
 
-Tools for using Grid with angular (1.0 currently)
+Tools for using Grid with angular (1.0 currently) NOTE: this project is no longer maintained. If you want an angular adapter surely it will look very different from angular 1 and you would be welcome to take over this repo :)
 
 Installation
 ===
